@@ -22,3 +22,5 @@
 `decomposed`
 
 ----
+
+#### Если проект не открывается, его можно просмотреть по ссылке: <a href='https://nbviewer.jupyter.org/github/AxelVas/Analytics_of_price_BTC/blob/main/BTC_analysis_2012_2021.ipynb'>Analytics_of_price_BTC</a>
